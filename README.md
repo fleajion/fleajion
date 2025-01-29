@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madang Club zidan YourBae</h1>
+<h1 align="center">Hi 👋, I'm zidan YourBae</h1>
 <h3 align="center">Developer Pemula Jangan hujat saya bang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fleajion&label=Profile%20views&color=0e75b6&style=flat" alt="fleajion" /> </p>
