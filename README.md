@@ -18,6 +18,7 @@ I'm diving into the exciting world of **Cloud Computing**, **DevOps**, and **Net
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233B8DB3.svg?style=for-the-badge&logo=python&logoColor=white)
+![amazon-cloud](https://img.shields.io/badge/Python-%233B8DB3.svg?style=for-the-badge&logo=amazon-cloud&logoColor=white)
 
 ### 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidan-naufal-firmansyah-6a0a19359/)
