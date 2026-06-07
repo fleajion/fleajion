@@ -1,6 +1,8 @@
 
 # Hi, I'm Zidan Naufal Firmansyah! 👋  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/lines=Cybersecurity+Enthusiast+🌟;Security,+Linux,+Cloud+Networking+DevOps+System-Administration👋&center=true&size=20)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast+🌸;Security,+Linux,+Cloud+Networking+DevOps🌸&center=true&size=20)
+
 🌟 **Aspiring Cloud & DevOps Engineer | Cyber Security | Network Engineer**  
 
 I'm diving into the exciting world of **Cloud Computing**, **DevOps**, and **Networking** while also exploring **Security Analysis**. I believe in learning by doing, and I'm building my skills step-by-step through projects, tutorials, and certifications. 
