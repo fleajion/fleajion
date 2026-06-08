@@ -1,7 +1,7 @@
 
 # Hi, I'm Zidan Naufal Firmansyah! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer+DevOps+👋;Security,+Linux,+Cloud+🌟&center=true&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Networking+Engineer+DevOps+👋;Security,+Linux,+Cloud+🌟&center=true&size=20)
 
 🌟 **Aspiring Cloud & DevOps Engineer | Cyber Security | Network Engineer**  
 
