@@ -19,6 +19,13 @@ I'm diving into the exciting world of **Cloud Computing**, **DevOps**, and **Net
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233B8DB3.svg?style=for-the-badge&logo=python&logoColor=white)
 ![amazon-cloud](https://img.shields.io/badge/amazon-cloud-%233B8DB3.svg?style=for-the-badge&logo=amazon-cloud&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%233B8DB3.svg?style=for-the-badge&logo=cisco&logoColor=blue)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-%233B8DB3.svg?style=for-the-badge&logo=Mikrotik&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-6DA55F?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/vmware-6DA55F?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 ### 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidan-naufal-firmansyah-6a0a19359/)
